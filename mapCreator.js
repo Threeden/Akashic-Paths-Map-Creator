@@ -1,6 +1,4 @@
 on('ready',()=>{
-    
-    
     const createThing = (obj, type, pageId)=>{
         obj._pageid = pageId
         if(obj.imgsrc){
@@ -13,7 +11,7 @@ on('ready',()=>{
         }
         createObj(type, obj)
     }
-  
+  //Included: Playtest Maps
   const myFunc = (map)=>{
     var objArr
     var width
