@@ -11,7 +11,7 @@ on('ready',()=>{
                 log("failed", obj)
             }
         }
-        
+        //aa
         createObj(type, obj)
     }
   
