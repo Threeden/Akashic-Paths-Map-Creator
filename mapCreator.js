@@ -94,7 +94,7 @@ on('ready',()=>{
             return
         break;
         default:
-            sendChat('Akashic Paths','Sorry no map with that name was found, try !create maps help for a list of names of currently available maps')
+            sendChat('Akashic Paths','Sorry no map with that name was found, try !create maps Help for a list of names of currently available maps')
             return
         break;
         
